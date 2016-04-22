@@ -1,6 +1,10 @@
 LIST OF MEMBERS FOR TEAM 094
 
+<<<<<<< HEAD
 HI :)
+=======
+ 23432rerwse:D 
+>>>>>>> parent of 27d0cca... Revert "one line 2"
 
 Neal Shang
  
