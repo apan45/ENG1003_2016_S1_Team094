@@ -1,9 +1,7 @@
 LIST OF MEMBERS FOR TEAM 094
-<<<<<<< HEAD
- 23432rerwse
-=======
-:D 
->>>>>>> origin/master
+
+HI :)
+
 Neal Shang
  
 Lydia Tan
